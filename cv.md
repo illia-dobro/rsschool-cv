@@ -30,7 +30,7 @@ console.log(result);
 
 * CS50 lectures
 * Epam Frontend
-* FreeCodeCame
+* FreeCodeCamp
 
 
 ## English
